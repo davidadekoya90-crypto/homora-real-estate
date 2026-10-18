@@ -1,0 +1,11 @@
+{
+  "name": "HOMORA Property Marketplace",
+  "short_name": "HOMORA",
+  "description": "Discover property and meet the people behind it.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f1",
+  "theme_color": "#f7f6f1",
+  "icons": [{ "src": "./homora-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
